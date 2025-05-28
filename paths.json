@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/ue_test_site/:/",
-    "/content/ue_test_site/configuration:/.helix/config.json",
-    "/content/ue_test_site/metadata:/metadata.json"
+    "/content/ue-test-mysite/:/",
+    "/content/ue-test-mysite/configuration:/.helix/config.json",
+    "/content/ue-test-mysite/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/ue_test_site/"
+    "/content/ue-test-mysite/"
   ]
 }
