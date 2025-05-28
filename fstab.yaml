@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/2/folders/1AxJboZNqHogqGyVpJjkcgNrUtbmZ1_jB?dmr=1&ec=wgc-drive-globalnav-goto
+  /:
+    url: "https://author-p111858-e1309034.adobeaemcloud.com/bin/franklin.delivery/llwamba/mysite/main"
+    type: "markup"
+    suffix: ".html"
