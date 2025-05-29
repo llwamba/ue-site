@@ -32,7 +32,7 @@ npm i
 ```sh
 npm run lint
 ```
-
+ 
 ## Local development
 
 1. Create a new repository based on the `aem-boilerplate` template and add a mountpoint in the `fstab.yaml`
