@@ -1,4 +1,4 @@
-mountpoints:
+mountpoints: 
   /:
     url: "https://author-p111858-e1309034.adobeaemcloud.com/bin/franklin.delivery/llwamba/ue-site/main"
     type: "markup"
