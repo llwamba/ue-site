@@ -1,7 +1,6 @@
 {
   "mappings": [
     "/content/ue-test-mysite/:/",
-    "/content/ue-test-mysite/configuration:/.helix/config.json",
     "/content/ue-test-mysite/metadata:/metadata.json"
   ],
   "includes": [
